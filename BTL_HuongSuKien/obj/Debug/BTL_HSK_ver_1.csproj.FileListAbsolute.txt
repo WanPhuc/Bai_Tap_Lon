@@ -1,0 +1,146 @@
+F:\Software\C#\BTL_HSK_ver_1\bin\Debug\BTL_HSK_ver_1.exe.config
+F:\Software\C#\BTL_HSK_ver_1\bin\Debug\BTL_HSK_ver_1.exe
+F:\Software\C#\BTL_HSK_ver_1\bin\Debug\BTL_HSK_ver_1.pdb
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.csproj.AssemblyReference.cache
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.csproj.SuggestedBindingRedirects.cache
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmDangKy.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmDangNhap.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.Properties.Resources.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.csproj.GenerateResource.cache
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.csproj.CoreCompileInputs.cache
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.exe
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.pdb
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmQuenMatKhau.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmTrangChu.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmDoiMatKhau.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmHoaDon.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmNhapHang.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmDanhSachNhanVien.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmThongTinTaiKhoan.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmQuanLySanPham.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmThongTinSanPham.resources
+F:\Software\C#\BTL_HSK_ver_1\obj\Debug\BTL_HSK_ver_1.frmDanhSachSanPham.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.csproj.AssemblyReference.cache
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmDangKy.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmDangNhap.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmDanhSachNhanVien.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmDanhSachSanPham.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmDoiMatKhau.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmHoaDon.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmNhapHang.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.Properties.Resources.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmQuanLySanPham.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmQuenMatKhau.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmThongTinSanPham.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmThongTinTaiKhoan.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.frmTrangChu.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.csproj.GenerateResource.cache
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.csproj.CoreCompileInputs.cache
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.exe
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.pdb
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.doanhthungay.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.csproj.CopyComplete
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.Form1.resources
+D:\c# codde\BTL_HSK-master\BTL_HSK_ver_1.exe.config
+D:\c# codde\BTL_HSK-master\BTL_HSK_ver_1.exe
+D:\c# codde\BTL_HSK-master\BTL_HSK_ver_1.pdb
+D:\c# codde\BTL_HSK-master\CrystalDecisions.CrystalReports.Engine.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportSource.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.Shared.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.Windows.Forms.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\c# codde\BTL_HSK-master\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\c# codde\BTL_HSK-master\stdole.dll
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.Form2.resources
+D:\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.Form3.resources
+D:\Code\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.csproj.AssemblyReference.cache
+D:\Code\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.exe
+D:\Code\c# codde\BTL_HSK-master\obj\Debug\BTL_HSK_ver_1.pdb
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.csproj.AssemblyReference.cache
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.frmDanhSachNhanVien.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.frmDanhSachSanPham.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.Properties.Resources.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.frmTrangChu.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.csproj.GenerateResource.cache
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.exe
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.pdb
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.csproj.CopyComplete
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\BTL_HSK_ver_1.exe.config
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\BTL_HSK_ver_1.exe
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\BTL_HSK_ver_1.pdb
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportSource.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.Shared.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.Windows.Forms.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\stdole.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.KhachHang.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.HoaDon.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.ChiTietHD.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.DangKy.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.DangNhap.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.Nhacungcap.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.NhapHang.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.ChiTietDN.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK\obj\Debug\BTL_HSK_ver_1.crystal.BaoCao.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.csproj.AssemblyReference.cache
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.ChiTietDN.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.ChiTietHD.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.crystal.BaoCao.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.DangKy.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.DangNhap.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.frmDanhSachNhanVien.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.frmDanhSachSanPham.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.HoaDon.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.KhachHang.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.Nhacungcap.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.NhapHang.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.Properties.Resources.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.frmTrangChu.resources
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.csproj.GenerateResource.cache
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.csproj.CopyComplete
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\BTL_HSK_ver_1.exe.config
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.exe
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\obj\Debug\BTL_HSK_ver_1.pdb
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\BTL_HSK_ver_1.exe
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\BTL_HSK_ver_1.pdb
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportSource.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.Shared.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.Windows.Forms.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\phuc7\Downloads\Download C\BTL_HSK_final\stdole.dll
