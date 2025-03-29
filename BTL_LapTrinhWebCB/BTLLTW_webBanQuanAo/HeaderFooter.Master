@@ -1,0 +1,151 @@
+﻿﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HeaderFooter.master.cs" Inherits="BTLLTW_webBanQuanAo.HeaderFooter" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="style/styleIndex.css">
+    <link rel="stylesheet" href="style/base.css">
+        <script>
+            function searchRedirect() {
+                const searchText = document.getElementById("search").value.trim().toUpperCase();
+                if (searchText) {
+                    window.location.href = 'dssp.aspx?search=' + encodeURIComponent(searchText);//encodeURIComponent:mã hóa một chuỗi (string) để có thể sử dụng trong URL
+                } else {
+                    alert("Vui lòng nhập nội dung tìm kiếm!");
+                }
+            }
+        </script>
+        <style>      
+           .header .container .action ul li a {
+                color: white;
+                text-align:center
+            }
+            table {
+                width: 100%;
+                border-collapse: collapse; 
+            }
+            th, td {
+                border: 1px solid black; 
+                padding: 10px;
+                text-align: center;
+            }
+            th {
+                background-color: #f2f2f2; 
+            }
+        </style>
+</head>
+<body>
+            <header class="header">
+                <div class="container">
+                    <div class="logo">
+                        <a href="index.aspx">
+                            TT-LTW
+                        </a>
+                    </div>
+                    <div class="menu">
+                        <ul>
+                            <li><a href="dssp.aspx?category=new">Sản phẩm mới</a></li>
+                            <li><a href="dssp.aspx?category=sale">Sale</a></li>
+                            <li>
+                                <a href="dssp.aspx?category=male">Thời trang nam</a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="dssp.aspx?category=m_casual">Đồ mặc hằng ngày</a></li>
+                                    <li><a href="dssp.aspx?category=m_work">Đồ công sở</a></li>
+                                    <li><a href="dssp.aspx?category=m_sports">Đồ thể thao</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="dssp.aspx?category=female">Thời trang nữ</a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="dssp.aspx?category=f_casual">Đồ mặc hằng ngày</a></li>
+                                    <li><a href="dssp.aspx?category=f_work">Đồ công sở</a></li>
+                                    <li><a href="dssp.aspx?category=f_sports">Đồ thể thao</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="dssp.aspx?category=kid">Thời trang trẻ em</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="hidden" id="account" runat="server">
+                        <label id="greeting" runat="server" style="display:flex"></label>
+                        <a href="signOut.aspx" style='color:white'">Dang xuat</a>
+                    </div>
+
+                    <div class="hidden" id="management" style="margin-left: 20px" runat="server">
+                        <a href="them.aspx" style='color:white'">Quản trị</a>
+                    </div>
+
+                    <div class="action">
+                        <ul>
+                            <li>
+                                <div class="search-box">
+                                    <div class="search-box-img">
+                                        <a onclick="searchRedirect()"><img src="resource/search.png" alt="" width="35px"></a>
+                                    </div>                                   
+                                    <input type="text" name="search" id="search" onkeydown=" if(event.key === 'Enter'){ searchRedirect(); }">                                                                      
+                                </div>
+                            </li>
+                            <li>
+                                <a href="login.aspx" id="login" runat="server"><img src="resource/user.png" alt="" width="35px"></a>
+                            </li>
+                            <li>
+                                <div class="cart">
+                                    <a href="cart.aspx"><img src="resource/cart.png" alt="" width="35px"></a>
+                                    <div class="number" id="cart_number" runat="server"></div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </header>
+
+            <div class ="main-content">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+            </div>
+
+            <div class="footer">
+                <div class="container">
+                    <div class="inner-wrap">
+                        <div class="column col-4">
+                            <h1>TT-LTW</h1>
+                            <br/>
+                            <h2>Cửa hàng thời trang số 1 VN</h2>
+                        </div>
+                        <div class="column col-4">
+                            <p><b>Bạn cần hỗ trợ</b></p>
+                            <br/>
+                            <h2>0123 4567</h2>
+                            <br/>
+                            <p><b>Địa chỉ: </b> Số a, ngõ b, đường c, phường D, quận E, thành phố Hà Nội</p>
+                            <p><b>Email: </b>support@gamil.com</p>
+
+                            <br>
+                            <p>//Đặt thêm social media asset vào đây</p>
+                        </div>
+                        <div class="column col-4">
+                            <p><b>Hướng dẫn mua hàng</b></p>
+                            <br>
+                            <p><a href="#">Trang chủ</a></p>
+                            <p><a href="#">Giới thiệu</a></p>
+                            <p><a href="#">Danh mục</a></p>
+                            <p><a href="#">Tin tức</a></p>
+                            <p><a href="#">Liên hệ</a></p>
+                            <p><a href="#">Hướng dẫn sử dụng</a></p>
+                        </div>
+                        <div class="column col-4">
+                            <p><b>Hướng dẫn mua hàng</b></p>
+                            <br>
+                            <p><a href="#">Trang chủ</a></p>
+                            <p><a href="#">Giới thiệu</a></p>
+                            <p><a href="#">Danh mục</a></p>
+                            <p><a href="#">Tin tức</a></p>
+                            <p><a href="#">Liên hệ</a></p>
+                            <p><a href="#">Hướng dẫn sử dụng</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </body>
+</html>

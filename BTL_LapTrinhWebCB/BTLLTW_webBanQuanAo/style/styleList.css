@@ -1,0 +1,37 @@
+﻿.body {
+    margin-top: 20px;
+}
+
+    .body .container .sidebar select {
+        width: 80%;
+        font-size: 20px;
+    }
+
+    .body .container {
+        display: flex;
+    }
+
+        .body .container .content {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .body .container .item {
+            flex-direction: column;
+            width: calc(25% - 20px);
+        }
+
+            .body .container .item img {
+                width: 100%;
+            }
+
+            .body .container .item .item-info {
+                margin-top: 10px;
+            }
+
+@media (max-width: 768px) {
+    .body .container .item {
+        width: calc(50% - 10px); /* Chia đôi độ rộng */
+    }
+}

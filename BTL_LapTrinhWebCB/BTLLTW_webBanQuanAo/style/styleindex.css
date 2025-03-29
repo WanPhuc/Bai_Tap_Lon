@@ -1,0 +1,381 @@
+﻿﻿.hidden {
+    visibility: collapse;
+}
+
+.flex {
+    display: flex;
+}
+
+.body {
+    min-height: 600px
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color: #212121;
+    color: #fff;
+}
+
+    .header .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+        .header .container .logo a {
+            margin-left: 25px;
+            font-size: 24px;
+            font-weight: bold;
+            text-decoration: none;
+            color: #fff;
+        }
+
+        .header .container .menu ul {
+            display: flex;
+            list-style: none;
+        }
+
+            .header .container .menu ul li {
+                position: relative;
+                cursor: pointer;
+                font-size: 18px;
+                width: 150px;
+                line-height: 80px;
+                text-align: center;
+            }
+
+        .header .container .menu a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .header .container .menu ul li:hover {
+            background-color: #3c3a3a;
+            text-decoration: underline;
+        }
+
+
+.menu ul li:hover > .dropdown-menu {
+    visibility: visible;
+    display: block;
+}
+
+.dropdown-menu {
+    visibility: hidden;
+    position: absolute;
+    background-color: #212121;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+}
+
+    .dropdown-menu li {
+        white-space: nowrap;
+        font-size: 16px;
+        min-width: 190px;
+    }
+
+.header .container .action {
+    margin-right: 25px;
+}
+
+    .header .container .action ul {
+        display: flex;
+        list-style: none;
+    }
+
+        .header .container .action ul li {
+            margin-left: 20px;
+        }
+
+            .header .container .action ul li:hover {
+                background-color: #3c3a3a;
+                text-decoration: underline;
+            }
+
+            .header .container .action ul li .search-box {
+                display: flex;
+            }
+
+            .header .container .action ul li .cart {
+                position: relative;
+            }
+
+                .header .container .action ul li .cart .number {
+                    position: absolute;
+                    top: -10px;
+                    right: -10px;
+                    background-color: red;
+                    color: white;
+                    border-radius: 50%;
+                    width: 20px;
+                    height: 20px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    font-size: 12px;
+                    text-align: center;
+                }
+
+
+/* End of header */
+
+/* Start of body*/
+
+.body {
+    margin: 0px 200px;
+}
+
+/* Start of section-one */
+
+.section-one {
+    margin-top: 15px;
+    text-align: center;
+}
+
+    .section-one .head-container .row-1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px 0;
+        gap: 70px;
+    }
+
+        .section-one .head-container .row-1 .option {
+            border: 1px solid;
+            border-radius: 20px;
+            line-height: 40px;
+            width: 110px;
+        }
+
+            .section-one .head-container .row-1 .option :hover {
+                cursor: pointer;
+                border-radius: 20px;
+                background-color: rgb(255, 254, 167);
+            }
+
+    .section-one .content-container .row {
+        display: flex;
+        gap: 20px;
+    }
+
+        .section-one .content-container .row .item img {
+            width: 100%;
+        }
+
+        .section-one .content-container .row .item {
+            width: calc(100% / 4);
+        }
+
+            .section-one .content-container .row .item .item-info {
+                text-align: left;
+                margin-top: 5px;
+            }
+
+.price {
+    display: flex;
+    align-items: baseline;
+    margin-top: 8px;
+}
+
+.price-after {
+    color: #ff0000;
+}
+
+.price-before {
+    margin-left: 10px;
+    color: #bcbcbc;
+    text-decoration: line-through;
+}
+
+/* End of section-one */
+
+/* Start of section-two */
+
+.section-two {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    .section-two .head-container {
+        margin-bottom: 20px;
+    }
+
+    .section-two .content-container .row {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .section-two .row .item {
+        width: calc(100% / 3);
+        margin: 0px 10px;
+        position: relative;
+    }
+
+        .section-two .row .item img {
+            width: 100%;
+        }
+
+        .section-two .row .item .inner-title {
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            justify-content: center; /* Căn về bên trái */
+            align-items: start; /* Căn giữa theo chiều dọc */
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            padding-left: 20px;
+        }
+
+            .section-two .row .item .inner-title .button {
+                border: solid;
+                border-radius: 30px;
+                width: calc(100% / 3);
+                line-height: 30px;
+                background-color: #000;
+                color: #fff;
+            }
+
+/* End of section 2 */
+
+/* End of body */
+
+/* Start of footer */
+
+.footer {
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
+
+    .footer .container {
+        padding: 0px 20px;
+    }
+
+        .footer .container .inner-wrap {
+            padding: 20px;
+            width: 100%;
+            display: flex;
+        }
+
+            .footer .container .inner-wrap .column {
+                padding: 0px 30px;
+            }
+
+    .footer a {
+        text-decoration: none;
+        color: white;
+    }
+
+@media (max-width: 768px) {
+    .header .container {
+        flex-direction: column; /* Xếp chồng các phần tử theo cột */
+        align-items: flex-start;
+        width: 100%;
+    }
+
+        .header .container .logo {
+            margin: 0 auto; /* Canh giữa logo */
+            text-align: center;
+        }
+
+        .header .container .menu {
+            display: flex;
+            flex-direction: column; /* Menu dọc */
+            width: 100%;
+        }
+
+            .header .container .menu ul {
+                display: flex;
+                flex-direction: column; /* Menu dọc */
+                width: 100%;
+            }
+
+                .header .container .menu ul li {
+                    width: 100%;
+                    padding: 15px 0;
+                    text-align: center;
+                }
+
+        .header .container .logo a {
+            margin-left: 25px;
+            font-size: 24px;
+            font-weight: bold;
+            text-decoration: none;
+            color: #fff;
+            display: flex;
+            justify-content: center; /* Căn giữa theo chiều ngang */
+            align-items: center;
+        }
+
+        .header .container .action {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            margin: 0;
+        }
+
+            .header .container .action ul {
+                display: flex;
+                list-style: none;
+                justify-content: center;
+                width: 100%;
+            }
+
+                .header .container .action ul li {
+                    margin: 0;
+                }
+
+                    .header .container .action ul li a {
+                        display: flex;
+                        text-align: center;
+                    }
+
+    .body {
+        margin: 0;
+        width: 100%;
+    }
+
+        .body .container {
+            display: flex;
+            flex-direction: column; /* Xếp chồng các phần tử theo cột */
+            align-items: center;
+        }
+
+            .body .container .sidebar {
+                width: 100%;
+            }
+
+            .body .container .content {
+                width: 100%;
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                flex-wrap: wrap;
+                gap: 20px;
+            }
+
+            .body .container .item {
+                width: 100%;
+            }
+
+            .body .container .info-customer {
+                width: 100%;
+                margin: 50px;
+            }
+
+            .body .container .cart {
+                width: 100%;
+                margin: 50px;
+            }
+
+    .main-content .container .body {
+        margin: auto;
+    }
+}
